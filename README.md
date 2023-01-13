@@ -7,6 +7,8 @@ Hola!👋
 You just arrived at Javi's github profile, did he make something you liked?   
 He is probably busy right know, but always interested in a chat with passionate engineers or creative types.
 
+Musician/maker/thinker/DevOps/engineer ,he considers himself an expert in STM32 related electronics, a very transversal dude.
+
 You can reach him in:
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/javiermu%C3%B1oz/)
 
@@ -15,4 +17,4 @@ You can reach him in:
 <h4 align="right">
 did someone say Roge embedded electronics?¿!
 </h4 >
-![taj majal](tajmajal.png)
+![taj majal](taj majal.PNG)

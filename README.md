@@ -1,19 +1,18 @@
-<h3 align="center">
-Hola!
-    , you just clicked your way into <a href="https://es.linkedin.com/in/javiermu%C3%B1oz" target="_blank" rel="noreferrer">Javi's</a> github profile 👋
-</h3>
+<!--So you are of the curious type, Good.-->
+<!-- a lot of this readme is based in https://raw.githubusercontent.com/ruppysuppy/ruppysuppy/main/README.md-->
+<h1 align="center">
+Hola!👋
+</h1>
 
-<!--
-**javiBajoCero/javiBajoCero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You just arrived at Javi's github profile, did he make something you liked?   
+He is probably busy right know, but always interested in a chat with passionate engineers or creative types.
 
-Here are some ideas to get you started:
+You can reach him in:
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/javiermu%C3%B1oz/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h4 align="right">
+did someone say Roge embedded electronics?¿!
+</h4 >
+![taj majal](tajmajal.png)

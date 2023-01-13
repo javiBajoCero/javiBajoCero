@@ -17,4 +17,3 @@ You can reach him in:
 <h4 align="right">
 did someone say Roge embedded electronics?¿!
 </h4 >
-![taj majal](tajmajal.png)

@@ -1,6 +1,6 @@
 ### Hola!👋 
-  ,pheew you just arrived to my github profile
-   did you like something i did? Let me know 
+   pheew you just arrived to my github profile
+   is it because something nice i did?
 
 <!--
 **javiBajoCero/javiBajoCero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

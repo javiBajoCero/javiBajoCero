@@ -12,13 +12,13 @@ Musician/maker/thinker/DevOps/engineer ,he considers himself an expert in STM32 
 You can reach him in:
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/javiermu%C3%B1oz/)
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,qt,cmake,python,arduino,linux,github"></img>
 </div>    
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiBajoCero&layout=compact&theme=merko"></img>
 
-<h4 align="center">
+<h4 align="left">
 did someone say Roge embedded electronics?¿!
 </h4 >

@@ -15,10 +15,8 @@ You can reach him in:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,qt,cmake,python,arduino,linux,github"></img>
 </div>    
+  
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javiBajoCero&layout=compact&theme=merko"></img>
-
-<h4 align="left">
-did someone say Roge embedded electronics?¿!
-</h4 >
+ADC+DMA             |  Phase shifted modulation
+:-------------------------:|:-------------------------:
+![0693W00000GWSMmQAP](https://github.com/user-attachments/assets/db0cc83a-5998-4b90-9f84-651246e2e649 ) |  ![screensavcer](https://github.com/user-attachments/assets/18db5bea-e88a-4412-8773-4b0957720b46)

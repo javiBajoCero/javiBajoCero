@@ -14,7 +14,7 @@ You can reach him in:
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/javiermu%C3%B1oz/)
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,qt,cmake,python,arduino,linux,github"></img>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,python,arduino,linux,github"></img>
 </div>    
   
 
